@@ -1,0 +1,29 @@
+body {
+    height: 100vh;
+}
+form {
+    width: 350px;
+    height: 500px;
+    background-color: #3D3C42;
+    padding: 2.5rem;
+    border-radius: 5px;
+}
+
+button {
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+label{
+    font-size: 16px;
+    color: #fff;
+}
+input {
+    outline: none;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    
+}
+input:focus{
+    border-color: #8257e6;
+    box-shadow: 0 0 5px #8257e6;
+}
