@@ -4,5 +4,5 @@ A ideia principal do projeto é criar uma aplicação web para controle de entra
 
 # As Tecnologias utilizadas
 
-- HTML, Javascript e CSS puros
+- HTML, CSS e Javascript
 - Firebase: authentication e firestore
