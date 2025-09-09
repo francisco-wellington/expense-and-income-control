@@ -10,4 +10,4 @@ Neste projeto de controle financeiro, usei bastante do javascript, que foi onde 
 - HTML, CSS e Javascript
 - Firebase: authentication e firestore
 
-> [Deploy do Projeto](https://wellingtonsilva12.github.io/expense-and-income-control/)
+> [Deploy do Projeto](https://francisco-wellington.github.io/expense-and-income-control/)
